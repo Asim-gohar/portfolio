@@ -29,7 +29,7 @@ function Projects() {
                     <div className='transform cursor-pointer hover:translate-y-6 transition-all duration-200 relative w-[100%] 
                     h-[200px] md:h-[300px]'>
                         <Link href='https://shopperspk.vercel.app'>
-                        <Image src='/images/Store.jpg' alt='Portfoilo' layout='fill' className='object-contain' />
+                        <Image src='/images/store.jpg' alt='Portfoilo' layout='fill' className='object-contain' />
                         </Link>
                     </div>
                 </div>
