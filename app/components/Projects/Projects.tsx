@@ -12,7 +12,9 @@ function Projects() {
                 <div>
                     <div className='transform cursor-pointer hover:translate-y-6 transition-all duration-200 relative w-[100%] 
                     h-[200px] md:h-[300px]'>
+                        <Link href='https://asimportfolio.vercel.app/'>
                         <Image src='/images/PortfolioGIF.gif' alt='Portfoilo' layout='fill' className='object-contain' />
+                            </Link>
                     </div>
                 </div>
                 <div>
