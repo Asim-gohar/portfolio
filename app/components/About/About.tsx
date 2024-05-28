@@ -21,7 +21,7 @@ function About() {
                             and web development to create cool digital stuff. My goal is to make things that not only look good but also work well for people. I'm always learning and enjoy working with others to make projects that
                             are both meaningful and visually impressive, just like the original vision.</p>
                     </div>
-                    <Link href='https://drive.google.com/file/d/1_I_kn6TO0WHzVbCNTNZQs4XdeGov7sAD/view?usp=drive_link'>
+                    <Link href='https://drive.google.com/file/d/1PcDyW3zd9liqwsZKtYQA6XBkTtb-rOUb/view?usp=drivesdk'>
                         <button className='px-[2rem] hover:bg-yellow-400 transition-all duration-200 py-[1rem] text-[18px]
                         font-bold uppercase bg-[#51ebd4] text-black flex items-center space-x-2'>
                             <p>download cv</p>
