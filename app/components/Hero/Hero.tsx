@@ -25,7 +25,7 @@ function Hero() {
                             Check out my portfolio to see how I bring technology and creativity together to create awesome digital experiences.
                         </p>
                         <div className='mt-2 flex-col space-y-6 sm:space-y-0 sm:flex sm:flex-row items-center sm:space-x-6'>
-                            <Link href='https://drive.google.com/file/d/1_I_kn6TO0WHzVbCNTNZQs4XdeGov7sAD/view?usp=drive_link'><button className='px-[2rem] hover:bg-yellow-400 transition-all duration-200 py-[1rem] text-[18px]
+                            <Link href='https://drive.google.com/file/d/1PcDyW3zd9liqwsZKtYQA6XBkTtb-rOUb/view?usp=drivesdk'><button className='px-[2rem] hover:bg-yellow-400 transition-all duration-200 py-[1rem] text-[18px]
                         font-bold uppercase bg-[#51ebd4] text-black flex items-center space-x-2'>
                                 <p>download cv</p>
                                 <ArrowDownTrayIcon className='w-[1.6rem] h-[1.7rem] text-black' />
